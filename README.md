@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoboXL
 - 👀 I’m interested in Chrome OS, Linux and old Hardware
-- 🌱 I’m currently learning Nothing..
+- 🌱 I’m currently learning idk..
 - 📫 How to reach me: (none)
 
 <!---
